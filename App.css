@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+  }
+  
+  .controls {
+    margin: 1rem 0;
+  }
+  
+  select, button {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .result {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    margin: 2rem auto;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 600px;
+    text-align: left;
+  }
